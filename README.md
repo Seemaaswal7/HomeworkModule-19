@@ -1,6 +1,6 @@
 ## Unit 19 Homework: Cryptocurrency Wallet
 
-![An image shows a wallet with bitcoin.](Images/19-4-challenge-image.png)
+![image](https://github.com/Seemaaswal7/Module-19/assets/120348854/af75fdaf-5329-4d0c-a273-cd22211c56bf)
 
 ### Background
 
@@ -107,6 +107,7 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 5. Return to the original transaction, and click the transaction’s To address.
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+![image](https://github.com/Seemaaswal7/Module-19/assets/120348854/6fff5e67-e9f0-4f4c-ab58-62e6de4517c8)
 
 ---
 
