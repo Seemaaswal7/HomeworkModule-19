@@ -1,7 +1,4 @@
 ## Unit 19 Homework: Cryptocurrency Wallet
-
-![image](https://github.com/Seemaaswal7/Module-19/assets/120348854/af75fdaf-5329-4d0c-a273-cd22211c56bf)
-
 ### Background
 
 You work at a startup that is building a new and disruptive platform called KryptoJobs2Go. KryptoJobs2Go is an application that its customers can use to find fintech professionals from among a list of candidates, hire them, and pay them. As KryptoJobs2Go’s lead developer, you have been tasked with integrating the Ethereum blockchain network into the application in order to enable your customers to instantly pay the fintech professionals whom they hire with cryptocurrency.
@@ -107,7 +104,9 @@ Now it's time to put it all together and test the KryptoJobs2Go application with
 5. Return to the original transaction, and click the transaction’s To address.
 
 * Take a screenshot of the recipient’s address balance and history from your Ganache application. Save this screenshot to the README.md file of your GitHub repository for this Challenge assignment.
+* ![image](https://github.com/Seemaaswal7/Module-19/assets/120348854/ad859f76-dcfd-4a21-a9c1-904f594866b1)
 ![image](https://github.com/Seemaaswal7/Module-19/assets/120348854/6fff5e67-e9f0-4f4c-ab58-62e6de4517c8)
+![image](https://github.com/Seemaaswal7/Module-19/assets/120348854/b62e8aab-e38b-4d84-a383-3168969b2817)
 
 ---
 
